@@ -1,6 +1,6 @@
 [NL](nl.html) | [Français](fr.html) | English
 
-# Future Systems & Network Administrator
+# Student Systems & Network Administrator
 
 Hello! My name is **Thibaut Blondeel**, a passionate IT student who, after the summer, will begin his second and final year of a graduate degree in **Systems and Network Administration** at HOGENT. 
 
