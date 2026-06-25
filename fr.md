@@ -1,4 +1,4 @@
-[NL](nl.html) | [Français] | [English](en.html)
+[NL](index.html) | [Français] | [English](en.html)
 
 # Étudiant Administrateur Systèmes & Réseaux
 
