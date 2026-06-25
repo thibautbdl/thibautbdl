@@ -1,6 +1,6 @@
 [NL] | [Français](fr.html) | [English](en.html)
 
-# Systeem- & Netwerkbeheerder in wording
+# Student Systeem- & Netwerkbeheerder
 
 Hallo! Ik ben **Thibaut Blondeel**, een gedreven IT-student die na de zomer start aan het tweede en laatste jaar van de graduaatsopleiding **Systeem- en Netwerkbeheer** aan HOGENT. 
 
