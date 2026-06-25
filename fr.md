@@ -1,6 +1,6 @@
 [NL](nl.html) | [Français] | [English](en.html)
 
-# Futur Administrateur Systèmes & Réseaux
+# Étudiant Administrateur Systèmes & Réseaux
 
 Bonjour ! Je m'appelle **Thibaut Blondeel**, un étudiant en informatique passionné qui débutera, après l'été, sa deuxième et dernière année de formation graduée en **Administration Systèmes et Réseaux** à la HOGENT. 
 
