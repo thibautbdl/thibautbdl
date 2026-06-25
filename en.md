@@ -1,4 +1,4 @@
-[NL](nl.html) | [Français](fr.html) | English
+[NL](index.html) | [Français](fr.html) | English
 
 # Student Systems & Network Administrator
 
